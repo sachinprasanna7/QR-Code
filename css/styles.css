@@ -1,0 +1,55 @@
+body {
+    background-color:  hsl(212, 45%, 89%);
+}
+
+h1{
+    font-size: 15px;
+    text-align: center;
+    text-decoration: solid;
+    margin-left: 14px;
+    margin-right: 14px;
+    color: hsl(218, 44%, 22%);
+}
+
+h3 {
+    font-size: 13px;
+    text-align: center;
+    text-decoration: solid;
+    color: hsl(220, 15%, 55%);
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 15px;
+}
+
+.middlecontainer{
+
+    background-color: white;
+    border-radius: 10%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 350px;
+    text-align: center;
+    width: 225px;
+}
+
+.qrcode{
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.attribution{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 15%;
+
+}
