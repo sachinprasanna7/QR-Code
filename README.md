@@ -1,5 +1,6 @@
 # Click to view webpage: 
 
+https://sachinprasanna7.github.io/QR-Code/
 
 
 
